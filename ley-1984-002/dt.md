@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los organismos públicos que utilicen el Escudo de Aragón procederán a la sustitución de aquellos que no se ajusten al modelo oficial establecido por la presente Ley y las disposiciones que la desarrollen. Se mantendrán, no obstante, los escudos de Aragón existentes en lugares de interés histórico-artístico y en aquellos de cuya ornamentación o estructura formen parte señalada.
