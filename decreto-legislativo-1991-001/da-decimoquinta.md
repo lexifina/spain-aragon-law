@@ -1,0 +1,7 @@
+Disposición adicional decimoquinta.
+1. La negociación colectiva de las condiciones de trabajo o materias que afecten al conjunto de los empleados públicos de la Administración de la Comunidad Autónoma se efectuará en la Mesa de la Función Pública.
+2. En dicha Mesa estarán presentes las organizaciones sindicales que lo estén en la Mesa General de Negociación del personal funcionario, así como los sindicatos que hayan obtenido el 10% o más de los representantes en las elecciones para Delegados de Personal y Comités de Empresa.
+3. Por decisión de la Mesa puede constituirse una Mesa sectorial de Administración General para la negociación colectiva y la determinación de las condiciones de trabajo comunes a todo el personal funcionario y laboral con excepción de las que deban conocer, por recaer en su ámbito competencial, la Mesa Sectorial de Educación y la Mesa Sectorial de Sanidad.
+4. En la citada Mesa Sectorial estarán presentes los sindicatos que hayan obtenido en el correspondiente sector el 10% o más de los representantes en las elecciones para Delegados de Personal, Comités de Empresas y Juntas de Personal.
+5. El número de miembros y el modo de alcanzar acuerdos en los citados órganos de representación serán los que se determinen en los respectivos Acuerdos Administración-Sindicatos de articulación de la negociación colectiva en la Administración de la Comunidad Autónoma de Aragón.
+Se añade por el art. 30.7 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227

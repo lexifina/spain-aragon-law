@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta.
+Los funcionarios al servicio de la Administración de la Comunidad Autónoma de Aragón podrán ser adscritos a puestos de trabajo de distinta unidad o localidad, previa solicitud basada en motivos de salud o rehabilitación del funcionario, su cónyuge o los hijos a su cargo, previo informe del servicio médico oficial y condicionado a que existan puestos vacantes adecuados a su Cuerpo, Escala y Titulación y cuyo complemento de destino y específico no sea superior al puesto de origen. La adscripción provisional a que se refiere el párrafo anterior implicará la reserva del puesto de origen del funcionario afectado.
+Se añade por el art. 30.6 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227

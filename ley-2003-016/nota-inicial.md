@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse " Ley sobre la actividad publicitaria de las Administraciones Públicas de Aragón" según establece el art. 48.1 de la Ley 26/2003, de 30 de diciembre. Ref. BOE-A-2004-2227
