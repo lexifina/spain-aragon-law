@@ -1,0 +1,4 @@
+Artículo 5 bis.
+1. Los Diptuados a Cortes de Aragón no podrán percibir más de una retribución con cargo a los presupuestos de los órganos constitucionales, de la Diputación General de Aragón o de las Administraciones Públicas, sus organismos autónomos, entes públicos y empresas con participación pública, directa o indirecta, mayoritaria, sin perjuicio de las dietas, indemnizaciones o asistencias que les correspondan por el desempeño de otro u otros cargos.
+2. También son incompatibles las retribuciones como Diputado con la percepción de pensión por derechos pasivos o por cualquier régimen de Seguridad Social público y obligatorio. El derecho al devengo por dichas pensiones se recuperará automáticamente desde el mismo momento de la extinción de la condición de Diputado a Cortes de Aragón.
+Se añade por el art. único.2 de la Ley 13/1997, de 15 de diciembre. Ref. BOE-A-1998-857.
