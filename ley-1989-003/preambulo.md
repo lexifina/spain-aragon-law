@@ -1,0 +1,6 @@
+En nombre del Rey y como Presidente de la Comunidad Autónoma, promulgo la presente Ley, aprobada por las Cortes de Aragón y ordeno que se publique; todo ello, de conformidad con lo dispuesto en los artículos 20 y 21 del Estatuto de Autonomía.
+EXPOSICIÓN DE MOTIVOS
+Por Leyes de 16 de abril de 1984 se regularon el uso de la Bandera y del Escudo de Aragón, como símbolos de la Comunidad Autónoma y se estableció el 23 de abril, festividad de San Jorge, Día de Aragón, como un expresivo símbolo de la identidad histórica de Aragón.
+Parece conveniente en el momento actual completar el acervo de símbolos identificativos de la Comunidad Autónoma, aprobándose el Himno oficial de Aragón.
+La música del Himno, del compositor aragonés Antón García Abril, entronca la más antigua tradición musical aragonesa con elementos musicales de honda raigambre popular dentro de una concepción nueva y moderna que le confiere un carácter vivo y de plena actualidad.
+La letra elaborada por los poetas aragoneses Ildefonso Manuel Gil, Ángel Guinda, Rosendo Tello y Manuel Vilas, destaca dentro de su armazón poética, valores como libertad, justicia, razón, verdad, tierra abierta... que históricamente representan la expresión de Aragón como pueblo.
