@@ -1,0 +1,9 @@
+Disposición adicional.
+El apartado 2 del artículo 13 de la Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón, cuyo texto refundido fue aprobado por Decreto legislativo 1/1991, de 19 de febrero, quedará redactado así:
+«2. La Comisión de Personal será paritaria, y su composición, la siguiente:
+Presidente: El Consejero de Presidencia y Relaciones Institucionales.
+Vicepresidente: El Director general de Recursos Humanos.
+Vocales: Los Secretarios generales o cargos análogos con rango de Jefe de Servicio que, en los Departamentos y organismos autónomos, tengan atribuidas competencias en materia de personal hasta el máximo y por el orden que fije el Gobierno para mantener la paridad, así como los Secretarios generales de las Delegaciones Territoriales de Huesca y Teruel, un Letrado de la Dirección General de Asuntos Jurídicos y Coordinación Normativa, un Jefe de Servicios de la Dirección General de Presupuestos y Patrimonio y representantes del personal designados por las organizaciones sindicales conforme a su representatividad respectiva.
+Secretario: El Jefe del Servicio de la Dirección General de Recursos Humanos que tenga atribuida competencias en materia de relaciones colectivas, que actuará con voz y voto.
+En caso de ausencia del Consejero de Presidencia y Relaciones Institucionales, asumirá la Presidencia el Director general de Recursos Humanos, la Vicepresidencia, el Jefe del Servicio que ostente la Secretaría, y ésta, el Jefe del Servicio que designe el mencionado Director general.
+Por cada uno de los miembros de la Comisión se designará un suplente, que en el caso de los que actúen en representación de la Administración habrá de tener al menos la categoría administrativa inmediatamente inferior y estar adscrito a la correspondiente Dirección General, Secretaría General o Servicio».
