@@ -1,0 +1,2 @@
+Disposición finales segunda. Habilitación de desarrollo reglamentario.
+Se faculta al Gobierno de Aragón para dictar las disposiciones reglamentarias precisas para el desarrollo de la presente Ley.
