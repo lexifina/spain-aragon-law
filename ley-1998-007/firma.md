@@ -952,9 +952,7 @@ II. Undécima. Coordinación con otras Comunidades Autónomas para las prestaci�
 220. Deberá tenerse en cuenta la influencia recíproca de municipios aragoneses situados en las zonas fronterizas con otras Comunidades Autónomas, estudiar las peculiaridades de cada situación y establecer los mecanismos de cooperación y ayuda mutua para la prestación de los servicios públicos.
 II. Duodécima. Suelo.
 221. La disponibilidad de suelo económicamente adecuado es uno de los instrumentos que facilita la realización de la política de ordenación del territorio: Localización de servicios públicos, instalación de equipamientos, ejecución de la política de vivienda, etc. Para facilitar el cumplimiento de esta finalidad, se clasificará la cantidad suficiente de suelo susceptible de urbanización y edificación de manera que incida en el mercado evitando y corrigiendo situaciones de monopolio. También se propiciará la creación de suelo público para la urbanización directa o para su cesión mediante concurso, con objeto de que el coste para el municipio sea el menos posible.
-222. Se propiciará que la utilización del suelo sea acorde con los intereses de la Comunidad Autónoma de Aragón. A tal efecto, se tendrá en cuenta lo siguiente:
-a) No se permitirá la instalación en usos penitenciarios cuya capacidad supere a la media de la población reclusa generada en Aragón en los últimos cinco años.
-b) Se prohibirá la instalación de almacenes de residuos nucleares que no hayan sido generados en Aragón.
+222. (Anulado).
 II. Decimotercera. Normativa sobre la vivienda.
 223. Se promoverá la promulgación de un texto unificado sobre la normas aplicables al sector de la vivienda, que recoja:
 a) Las líneas y directrices políticas sobre la vivienda.
@@ -1368,5 +1366,6 @@ Cuarta: Patrimonio del Archivo de la Corona de Aragón |
 (262) Creación de Delegación permanente aragonesa en Archivo de la Corona de Aragón. | 
 (263) Creación del Archivo del Reino de Aragón. | 
 (264) Parques Culturales Potenciación de acuerdo con determinados criterios. | (68)
+Se declara la inconstitucionalidad y nulidad del núm. 222 de la directriz duodécima, apartado II, letra D) por Sentencia del TC 14/2004, de 12 de febrero. Ref. BOE-T-2004-4344
 Se levanta la suspensión de la vigencia y aplicación del núm. 222 de la directriz duodécima, apartado II, letra D) por Auto del TC de 23 de marzo de 1999. Ref. BOE-A-1999-7660
 Se suspende la vigencia y aplicación del núm. 222 de la directriz duodécima, apartado II, letra D) desde el 28 de octubre de 1998 para las partes en el proceso y desde el 20 de noviembre de 1998 para los terceros, por providencia del TC de 10 de noviembre de 1998 que admite a trámite el recurso de inconstitucionalidad nº 4488/1998. Ref. BOE-A-1998-26730
