@@ -1,0 +1,3 @@
+Disposición transitoria única. Adaptación de los estatutos a lo establecido en la presente Ley.
+1. Los Colegios Profesionales aragoneses adaptarán sus estatutos a la presente Ley, en los casos en que sea necesario, dentro del año siguiente a la entrada en vigor de la misma.
+2. En caso de que esta adaptación no se produjera, la Administración de la Comunidad Autónoma está facultada para proceder de oficio, o a instancia de parte interesada, a revisar la adecuación a norma del régimen jurídico de los Colegios Profesionales preexistentes, a la entrada en vigor de la presente Ley, mediante decreto y previo informe del Consejo de Colegios correspondiente, si existiera.
