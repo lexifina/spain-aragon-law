@@ -1,0 +1,3 @@
+Disposición adicional única. Referencias y concordancias.
+1. Todas las referencias que se contengan en disposiciones legales y reglamentarias a la Ley 11/1996, de 30 de diciembre, de la Administración de la Comunidad Autónoma de Aragón, se entenderán hechas al Texto refundido de la Ley de la Administración de la Comunidad Autónoma de Aragón.
+2. Si las referencias se expresaran con indicación de la numeración de un determinado artículo a la Ley 11/1996, de 30 de diciembre, de la Administración de la Comunidad Autónoma de Aragón se entenderán sustituidos por la numeración que corresponda a dicho artículo en el Texto refundido.
