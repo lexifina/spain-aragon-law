@@ -1,0 +1,3 @@
+Disposición transitoria decimotercera. Guardería.
+1. En tanto se establecen reglamentariamente las dotaciones mínimas de vigilancia en los cotos, a los efectos de contratación de guardas particulares de campo o guardas de caza, se entenderá suficiente la dotación de un guarda por cada 25.000 hectáreas de superficie, cuando la persona que desempeñe la función desarrolle exclusivamente tareas cinegéticas, y por cada 5.000 hectáreas cuando desarrolle, además, otros cometidos.
+2. Los contratos de guardas de caza realizados con arreglo a la normativa anterior a la entrada en vigor de esta Ley tendrán la duración que en ellos se contemple, con independencia de las dotaciones mínimas de vigilancia de los cotos que se establezcan reglamentariamente.
