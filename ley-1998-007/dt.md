@@ -1,0 +1,2 @@
+Disposición transitoria.
+Las directrices parciales, territoriales o sectoriales, y los instrumentos de ordenación urbanística vigentes a la entrada en vigor de la presente Ley y que resulten afectados, se adaptarán, en el plazo máximo de un año, a las prescripciones de las Directrices Generales de Ordenación Territorial, de acuerdo con lo establecido en las disposiciones transitorias primera y tercera de la Ley aragonesa de Ordenación Territorial.
