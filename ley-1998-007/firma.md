@@ -955,6 +955,7 @@ II. Duodécima. Suelo.
 222. Se propiciará que la utilización del suelo sea acorde con los intereses de la Comunidad Autónoma de Aragón. A tal efecto, se tendrá en cuenta lo siguiente:
 a) No se permitirá la instalación en usos penitenciarios cuya capacidad supere a la media de la población reclusa generada en Aragón en los últimos cinco años.
 b) Se prohibirá la instalación de almacenes de residuos nucleares que no hayan sido generados en Aragón.
+Téngase en cuenta que se suspende la vigencia y aplicación del núm. 222 desde el 28 de octubre de 1998 para las partes en el proceso y desde el 20 de noviembre de 1998 para los terceros, por providencia del TC de 10 de noviembre de 1998 que admite a trámite el recurso de inconstitucionalidad nº 4488/1998. Ref. BOE-A-1998-26730
 II. Decimotercera. Normativa sobre la vivienda.
 223. Se promoverá la promulgación de un texto unificado sobre la normas aplicables al sector de la vivienda, que recoja:
 a) Las líneas y directrices políticas sobre la vivienda.
@@ -1368,3 +1369,4 @@ Cuarta: Patrimonio del Archivo de la Corona de Aragón |
 (262) Creación de Delegación permanente aragonesa en Archivo de la Corona de Aragón. | 
 (263) Creación del Archivo del Reino de Aragón. | 
 (264) Parques Culturales Potenciación de acuerdo con determinados criterios. | (68)
+Se suspende la vigencia y aplicación del núm. 222 de la directriz duodécima, apartado II, letra D) desde el 28 de octubre de 1998 para las partes en el proceso y desde el 20 de noviembre de 1998 para los terceros, por providencia del TC de 10 de noviembre de 1998 que admite a trámite el recurso de inconstitucionalidad nº 4488/1998. Ref. BOE-A-1998-26730
