@@ -1,0 +1,2 @@
+Artículo único. Aprobación del Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Aragón en materia de tributos cedidos.
+De conformidad con la delegación legislativa contenida en la disposición final cuarta de la Ley 12/2004, de 29 de diciembre, de medidas tributarias y administrativas, se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Aragón en materia de tributos cedidos, que-se incorpora como Anexo.
