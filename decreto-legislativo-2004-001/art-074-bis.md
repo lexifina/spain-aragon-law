@@ -1,5 +1,6 @@
-Artículo 74 bis. Exenciones.
-1. Están exentos en el 50% de la cuota resultante de la tarifa 17 los aprovechamientos de maderas o leñas con diámetro siempre inferior a 20 cm con corteza.
+Artículo 74 bis. Exenciones y bonificaciones.
+1. Tendrán una bonificación del 50% de la cuota adicional de la tarifa 17: las autorizaciones de los aprovechamientos de maderas o leñas de diámetro normal siempre inferior a 20 cm con corteza; las autorizaciones de los aprovechamientos de maderas en plantaciones de especies forestales del género Populus; las autorizaciones de los aprovechamientos forestales de maderas de cualquier tipo que se ejecuten en espacios de la Red Natura 2000 o en Espacios Naturales Protegidos y las de los aprovechamientos forestales establecidos en Proyectos de Ordenación de Montes, Planes Dasocráticos o instrumentos de gestión equivalentes aprobados por la Administración Forestal. Estas exenciones no son acumulables en ningún caso.
 Asimismo, están exentos del pago de cuota de la tarifa 17 los aprovechamientos de leñas de diámetro siempre inferior a 20 cm con corteza y volumen anual inferior a 10 m3 y los aprovechamientos sanitarios de carácter forzoso que se encuentren debidamente acreditados.
 2. Están exentos del pago de las tarifas 18, 19, 20 y 21 los supuestos de proyectos y actuaciones promovidos por las Administraciones Públicas, siempre que se lleven a cabo en desarrollo o ejercicio de actividades o de funciones de carácter público.
+Se modifica por el art. 55.4 de la Ley 13/2005, de 30 de diciembre. Ref. BOA-d-2005-90009
 Se añade por el art. 11.8 de la Ley 12/2004, de 29 de diciembre. Ref. BOE-A-2005-2729
