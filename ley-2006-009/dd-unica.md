@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogados los artículos del Texto Refundido de las Tasas de la Comunidad Autónoma de Aragón, aprobado por Decreto Legislativo 1/2004, de 27 de julio, del Gobierno de Aragón, que regulan la Tasa 18, por servicios de los consejos reguladores de las denominaciones de origen e indicaciones geográficas protegidas de productos agroalimentarios, y la Tasa 31, por servicios prestados por el Comité aragonés de agricultura ecológica.
+2. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con lo dispuesto en esta ley.
