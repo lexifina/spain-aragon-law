@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Gestión comarcal de las subvenciones específicas.
+Cuando los programas de gastos incluyan dotaciones destinadas a actuaciones concretas y específicas en determinados municipios, y como tales no contempladas en el anexo a esta ley, dichas dotaciones deberán considerarse excluidas de la aplicación de la fórmula de reparto prevista en el artículo 66, si bien podrá ser encomendada su gestión a la correspondiente comarca en los términos que se convenga en cada caso.

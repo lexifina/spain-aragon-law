@@ -1,0 +1,2 @@
+Disposición adicional decimoséptima. Unificación de divisiones comarcales.
+El Gobierno de Aragón unificará las divisiones comarcales y supramunicipales que vengan aplicándose por los distintos Departamentos a efectos de organización y gestión de los servicios a su cargo, al objeto de procurar la homogeneización del mapa comarcal como base geográfica de servicios periféricos, de modo que éstos se refieran siempre a un área comarcal o a un conjunto de áreas comarcales determinadas.
