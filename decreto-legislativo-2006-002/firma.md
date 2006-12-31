@@ -1,0 +1,1 @@
+Zaragoza, a 27 de diciembre de 2006.–El Presidente del Gobierno de Aragón, Marcelino Iglesias Ricou.–El Vicepresidente del Gobierno y Consejero de Presidencia y Relaciones Institucionales, José Ángel Biel Rivera.
