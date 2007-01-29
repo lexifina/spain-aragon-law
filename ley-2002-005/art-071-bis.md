@@ -1,0 +1,10 @@
+Artículo 71 bis. De la indemnización por daños no agrarios.
+1. La Administración de la Comunidad Autónoma de Aragón asumirá el pago de las indemnizaciones a que haya lugar a favor de los perjudicados por daños de naturaleza distinta de la agraria causados por especies cinegéticas, a reserva de la posibilidad de ejercitar su derecho de repetición frente a los responsables y titulares de los acotados en los casos en que se hubiera dado lugar a ello.
+2. En cualquier caso, la Administración de la Comunidad Autónoma de Aragón quedará exonerada de esa obligación de pago en los siguientes casos:
+a) Cuando los propios perjudicados, mediante su culpa o negligencia, hayan concurrido a la producción del daño.
+b) Cuando el accidente o siniestro no sea consecuencia directa de la acción de cazar.
+c) Cuando no se haya observado la debida diligencia en la conservación del terreno acotado, en cumplimiento de las obligaciones que a tal fin la normativa de caza impone a su titular.
+3. Para asumir esa obligación de pago podrán establecerse los mecanismos aseguradores oportunos.
+4. Reglamentariamente se establecerá a tal fin un procedimiento administrativo específico, en el que se dará audiencia al titular del acotado, ante el órgano competente de la Administración de la Comunidad Autónoma de Aragón para determinar en su caso la procedencia de dicho pago.
+5. En todo caso, la asunción por la Administración de la Comunidad Autónoma del pago de las indemnizaciones por la responsabilidad que pudiera corresponder a terceros, en los términos establecidos en la presente ley, no exonerará de la responsabilidad patrimonial que pudiera corresponder a otras Administraciones públicas derivada del ejercicio de sus propias competencias.
+Se añade por la disposición final 5.2 de la Ley 15/2006, de 28 de diciembre. Ref. BOE-A-2007-3527.
