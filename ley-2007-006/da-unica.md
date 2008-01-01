@@ -1,0 +1,2 @@
+Disposición adicional única. Funciones del Consejo de Colegios de Ortopédicos de Aragón.
+El Colegio Profesional de Ortopédicos de Aragón, que tiene el carácter de general por extenderse al territorio de toda la Comunidad Autónoma de Aragón, asume las funciones reconocidas a los consejos de colegios de Aragón en la Ley 2/1998, de 12 de marzo, de colegios profesionales de Aragón.
