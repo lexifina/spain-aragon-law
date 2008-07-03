@@ -1,0 +1,2 @@
+Disposición transitoria única. Aplicación retroactiva.
+Las personas a las que se refiere el artículo 2 de la presente Ley que hubieran sido víctimas de acciones terroristas con anterioridad a la entrada en vigor de la misma tienen derecho, previa solicitud, a las ayudas previstas en la misma, siempre que los actos o hechos causantes hayan acaecido entre el 10 de agosto de 1982 y la fecha de entrada en vigor de esta Ley.
