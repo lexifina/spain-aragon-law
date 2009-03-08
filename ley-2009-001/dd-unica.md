@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley y, expresamente, el Título VI del Texto Refundido de la Ley del Presidente y del Gobierno de Aragón, aprobado mediante Decreto Legislativo 1/2001, de 3 de julio, y el artículo 24 de la Ley 26/2001, de 28 de diciembre, de Medidas Tributarias y Administrativas.
