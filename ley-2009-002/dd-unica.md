@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley y, expresamente, los Títulos primero, segundo, tercero y cuarto, y los Capítulos primero y segundo del Título quinto y las Disposiciones Adicionales primera, segunda y tercera del Texto Refundido de la Ley del Presidente y del Gobierno de Aragón, aprobado mediante Decreto legislativo 1/2001, de 3 de julio.
