@@ -1,0 +1,24 @@
+Disposición adicional única. Establecimiento de tasas por la prestación de servicios o realización de actividades en régimen de Derecho público.
+1. Podrán establecerse tasas por la prestación de servicios o realización de actividades administrativas en régimen de Derecho público consistentes en:
+a) La tramitación o expedición de licencias, visados, cédulas, matrículas o autorizaciones administrativas.
+b) La expedición de certificados, compulsas, copias, consultas en archivos, documentos o informes a instancia de parte.
+c) La legalización, diligenciado y sellado de libros.
+d) Las inscripciones, modificaciones y anotaciones en Registro públicos oficiales.
+e) Las actuaciones técnicas y facultativas de vigilancia, dirección, inspección, investigación, estudios, informes, asesoramiento, comprobación, reconocimiento o prospección.
+f) El examen de proyectos, verificaciones, contrastaciones, ensayos u homologaciones.
+g) Las valoraciones y tasaciones
+h) Los servicios de asistencia técnica, jurídica o administrativa solicitados a instancia de parte.
+i) Los servicios en materia de transportes.
+j) Los servicios agrarios, forestales y agroalimentarios.
+k) Los servicios veterinarios y sanitarios de animales y sus productos.
+l) Los servicios sanitarios y farmacéuticos.
+m) Los servicios industriales, energéticos, metrológicos, mineros y comerciales.
+n) Los servicios académicos y profesionales.
+ñ) Los servicios sociales.
+o) Los servicios por anuncios en el "Boletín Oficial de Aragón".
+p) Los servicios por derechos de examen en pruebas selectivas para el acceso a la Administración de la Comunidad Autónoma de Aragón.
+q) Los servicios en materia medioambiental.
+r) Los servicios en materia tributaria.
+s) En general, las resoluciones de los procedimientos instruidos conforme a la normativa reguladora de los procedimientos administrativos, comunes o especiales, siempre que su incoación se produzca a instancia del interesado y sean competencia de los distintos órganos, organismos y entidades de Derecho público de la Comunidad Autónoma de Aragón, en el ejercicio de funciones o potestades públicas que no puedan desempeñarse por el sector privado.
+2. El establecimiento de tasas por la prestación de servicios públicos declarados esenciales como justicia, educación, sanidad, asistencia social o protección civil, sólo podrá efectuarse en los términos de la ley reguladora del servicio de que se trate, rigiéndose en cuanto a su regulación y aplicación por las disposiciones de la presente Ley.
+Se añade por el art. 15 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164

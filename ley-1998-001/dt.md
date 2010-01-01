@@ -1,2 +1,3 @@
 Disposición transitoria.
-La Junta de Reclamaciones Económico-Administrativas de la Comunidad Autónoma de Aragón tramitará y resolverá todos los expedientes que tenga pendientes el Tribunal Económico-Administrativo de la Administración Autónoma de Aragón que no hayan llegado al trámite de ponencia, previo a la resolución.
+(Derogada).
+Se deroga por la disposición derogatoria única.2.a) de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164

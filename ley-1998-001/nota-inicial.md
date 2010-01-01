@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 1/1998, de 16 de febrero, de Revisión administrativa en materia de Tributos propios y otros Recursos de Derecho público de la Comunidad Autónoma de Aragón", según establece el art. 16.1 de la Ley 13/2009, de 30 de diciembre. Ref. BOE-A-2010-2164
