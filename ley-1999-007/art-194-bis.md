@@ -1,0 +1,3 @@
+Artículo 194 bis. Comunicación previa o declaración responsable.
+Las Entidades locales, salvo que una ley sectorial establezca lo contrario, podrán prever en sus ordenanzas la sustitución de la necesidad de obtención de licencia por una comunicación previa o declaración responsable, por escrito, del interesado a la Entidad Local, cuando se trate del acceso a una actividad de servicios y su ejercicio u otras actuaciones previstas en dichas ordenanzas. En cualquier momento, la entidad local podrá verificar la concurrencia de los requisitos exigidos y podrá ordenar, mediante resolución motivada, el cese de la actuación en tanto no se ajuste a lo requerido.
+Se añade por el art. 1.3 del Decreto-ley 1/2010, de 27 de abril. Ref. BOA-d-2010-90041
