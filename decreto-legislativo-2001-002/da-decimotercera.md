@@ -4,6 +4,7 @@ a) Se formalizarán a través de encargos de ejecución por los titulares de los
 b) La determinación del importe de la actuación se efectuará según valoración económica definida en el proyecto correspondiente o en el presupuesto técnico de actuación. En ningún caso podrá ser objeto de encargo de ejecución la contratación de suministros.
 c) El pago se efectuará con la periodicidad establecida en el encargo de ejecución y conforme a la actuación efectivamente realizada.
 No obstante, podrá efectuarse un anticipo de hasta el 10% de la primera anualidad correspondiente a cada encargo de ejecución, de acuerdo con lo establecido en la letra b) de este apartado.
-d) Los gastos generales y corporativos de la empresa podrán ser imputados al coste de las actuaciones encargadas hasta un máximo del 6% de dicho coste.
+d) Los gastos generales y corporativos de la empresa podrán ser imputados al coste de las actuaciones encargadas hasta un máximo del cinco con cinco por ciento de dicho coste.
 e) En las actuaciones financiadas con fondos provenientes de la Unión Europea, deberá asegurarse la elegibilidad de estos gastos, de acuerdo con lo establecido en la normativa comunitaria.
 2. Las empresas definidas en el apartado anterior no podrán participar en los procedimientos para la adjudicación de los contratos convocados por la Administración pública de la Comunidad Autónoma de la que son medio propio. No obstante, cuando no concurra ningún licitador, podrá encargarse a la empresa la ejecución de la actividad objeto de licitación pública.
+Se modifica el apartado 1.d) por el art. 2 de la Ley 5/2010, de 24 de junio. Ref. BOE-A-2010-13043.
