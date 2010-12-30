@@ -1,0 +1,7 @@
+Artículo 58 bis.
+1. El Consejo de Administración de las Cajas de Ahorros constituirá en su seno una Comisión de Inversiones, formada por un máximo de tres personas designadas por el Consejo de Administración de entre sus miembros, atendiendo a su capacidad técnica y experiencia profesional.
+2. Esta comisión tendrá la función de informar al Consejo sobre las inversiones y desinversiones de carácter estratégico y estable que efectúe la Caja, ya sea directamente o a través de entidades de su mismo grupo, así como sobre la viabilidad financiera de las citadas inversiones y su adecuación a los presupuestos y planes estratégicos de la entidad.
+3. La Comisión de Inversiones remitirá anualmente al Consejo de Administración un informe en el que, al menos, deberá incluirse un resumen de dichas inversiones. Igualmente, se incluirá en el informe anual relación y sentido de los informes emitidos por la citada comisión. Este informe anual se incorporará al informe de gobierno corporativo de la entidad.
+4. Se entenderá como estratégica la adquisición o venta de cualquier participación significativa de cualquier sociedad cotizada o la participación en proyectos empresariales con presencia en la gestión o en sus órganos de gobierno.
+5. El régimen de funcionamiento de la Comisión de Inversiones será establecido por los Estatutos de la Caja y su propio reglamento interno.
+Se añade por el art. único.23 de la Ley 10/2010, de 16 de diciembre. Ref. BOE-A-2011-2105
