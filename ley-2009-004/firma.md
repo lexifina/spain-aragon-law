@@ -20,6 +20,7 @@ II. Centrales nucleares y otros reactores nucleares. Instalaciones para el repro
 III. Grandes instalaciones para el tratamiento o transporte de petróleo o gas incluidas en el Anexo II de la Ley 7/2006, de 22 de junio, de Protección Ambiental de Aragón.
 IV. Construcción de líneas para el transporte de energía eléctrica con un voltaje igual o superior a 220 kilovoltios y una longitud superior a 15 kilómetros.
 V. Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos) que tengan 20 o más aerogeneradores.
+VI. Proyectos de instalaciones para producción de energía eléctrica a partir de la energía solar, destinada a su venta en la red, que ocupen una superficie superior a 100 hectáreas.
 d) Proyectos urbanísticos con incidencia territorial:
 I. Proyectos de urbanizaciones y complejos turísticos ubicados en suelo no urbanizable de especial importancia en relación con la estructura del territorio, entendiendo por tales los que requieren una ocupación de más de 10 hectáreas de terreno.
 II. Proyectos de zonas industriales cuya superficie de ocupación sea superior a 200 hectáreas.
@@ -30,6 +31,6 @@ II. Sanidad: hospitales y centros de especialidades.
 III. Servicios sociales: centros de servicios sociales especializados.
 IV. Grandes instalaciones de tratamiento de residuos, entendiendo por tales las incluidas en el Anexo II de la Ley 7/2006, de 22 de junio, de Protección Ambiental de Aragón.
 V. Otros equipamientos colectivos con incidencia territorial de ámbito comarcal o supracomarcal.
-(Publicada en el «Boletín Oficial de Aragón» número 124, de 30 de junio de 2009)
+Se añade el apartado VI del epígrafe c) por Orden autonómica de 28 de febrero de 2011, del Consejero de Política Territorial, Justicia e Interior, por la que se da publicidad al acuerdo del Gobierno de Aragón, de fecha 8 de febrero de 2011. (BOA de 23 de marzo de 2011)
 INFORMACIÓN RELACIONADA
 Téngase en cuenta el Acuerdo de la Comisión Bilateral de Cooperación Aragón-Estado publicado por Resolución de 29 de marzo de 2010. Ref. BOE-A-2010-7079. en relación con la interpretación de determinados artículos.
