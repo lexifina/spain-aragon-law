@@ -1,0 +1,3 @@
+Disposición transitoria decimoquinta. Acciones, derechos y deberes nacidos antes pero no ejercitados o cumplidos todavía.
+1. Las acciones, derechos y deberes nacidos antes del 23 de abril de 1999, pero no ejercitados o cumplidos en esa fecha, subsisten con la extensión y en los términos que les reconociera la legislación precedente; pero sujetándose, en cuanto a su ejercicio, duración o prescripción y procedimientos para hacerlos valer, a lo dispuesto en este Código.
+2. Los plazos se cuentan desde el 23 de abril de 1999 en las sucesiones abiertas con anterioridad, pero se aplican los de la legislación anterior si habían de cerrarse antes que los de este Código.

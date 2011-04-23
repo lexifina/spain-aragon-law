@@ -1,0 +1,3 @@
+Disposición transitoria decimocuarta. Validez de los actos por causa de muerte anteriores.
+1. Conservan su validez los pactos sucesorios y testamentos otorgados y las fiducias sucesorias concedidas o pactadas antes del 23 de abril de 1999, fecha de entrada en vigor de la Ley 1/1999, de 24 de febrero, de sucesiones por causa de muerte, que sean válidos con arreglo a la legislación anterior.
+2. También son válidos los pactos sucesorios y testamentos otorgados y las fiducias sucesorias concedidas o pactadas antes del 23 de abril de 1999 que lo sean con arreglo a este Código, aunque no lo fueran según la legislación anterior, siempre que la apertura de la sucesión se produzca a partir de dicha fecha.
