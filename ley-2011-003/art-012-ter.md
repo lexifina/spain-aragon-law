@@ -1,0 +1,4 @@
+Artículo 12 ter. Ampliación del plazo para requerir documentación justificativa.
+En los supuestos en que la propuesta de adjudicación de un contrato recaiga sobre una unión de empresarios o sobre una agrupación de estos con el compromiso de constituir una sociedad, el plazo para presentar la documentación referida en el artículo 151.2 del Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, será de veinte días hábiles.
+El órgano de contratación, en aquellos expedientes de contratación en los que lo exija la complejidad de la documentación a aportar, podrá ampliar el plazo general de diez días hábiles previsto en dicho precepto hasta un máximo de veinte días hábiles, de forma motivada y en el momento de aprobación del expediente.
+Se añade por el art. 33.4 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203

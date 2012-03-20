@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Sobre la elaboración de Planes de Ordenación de Recursos Forestales e Instrumentos de Gestión Forestal.
+El Gobierno de Aragón, de acuerdo con lo establecido en esta ley, promoverá en 2012 la elaboración de Planes de Ordenación de los Recursos forestales y los Instrumentos de Gestión Forestal de las comarcas que cuenten con masas forestales susceptibles de aprovechamiento como biomasa forestal, incluyendo, en su caso, el aprovechamiento forestal de choperas de titularidad de la Comunidad Autónoma.
+Se añade por el art. 59.2 de la Ley 3/2012, de 8 de marzo. Ref. BOE-A-2012-5203.
