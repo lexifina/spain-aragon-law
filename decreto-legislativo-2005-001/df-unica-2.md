@@ -1,0 +1,3 @@
+Disposición final única ante.
+Habilitación al Gobierno de Aragón para que regule los requisitos de la deducción de la cuota íntegra autonómica por arrendamiento de vivienda social. Mediante Decreto del Gobierno de Aragón se regularán los requisitos que deban cumplir las viviendas que puedan integrarse en la bolsa de viviendas sociales, los ciudadanos que puedan beneficiarse de los contratos de alquiler para vivienda habitual y las rentas máximas a percibir por los propietarios, así como las condiciones que regirán la puesta a disposición de las viviendas a favor del Gobierno de Aragón o sus entidades dependientes.
+Se añade por el art. 1.11 de la Ley 10/2012, de 27 de diciembre. Ref. BOE-A-2013-1424.
