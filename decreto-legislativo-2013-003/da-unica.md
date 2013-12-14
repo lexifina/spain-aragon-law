@@ -1,0 +1,3 @@
+Disposición adicional única. Referencias y concordancias.
+Todas las referencias que se contengan en disposiciones legales y reglamentarias a la Ley 12/2006, de 27 de diciembre, de regulación y fomento de la actividad industrial de Aragón, se entenderán hechas al Texto Refundido de la Ley de regulación y fomento de la actividad industrial de Aragón.
+Si las referencias se expresaran con indicación de la numeración de un determinado artículo en la Ley 12/2006, de 27 de diciembre, de regulación y fomento de la actividad industrial de Aragón, se entenderán sustituidas por la numeración que corresponda a dicho artículo en el Texto Refundido de la Ley de regulación y fomento de la actividad industrial de Aragón.
