@@ -1,0 +1,2 @@
+Artículo único. Aprobación del Texto Refundido de la Ley de creación del Consejo de Protección de la Naturaleza.
+De conformidad con la delegación legislativa contenida en la disposición final primera de Ley 10/2012, de 27 de diciembre, de Medidas Fiscales y Administrativas de la Comunidad Autónoma de Aragón, se aprueba el Texto Refundido de la Ley de creación del Consejo de Protección de la Naturaleza, cuyo texto se inserta a continuación.

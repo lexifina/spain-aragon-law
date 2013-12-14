@@ -1,0 +1,2 @@
+Disposición adicional única. Indemnizaciones por asistencia.
+La cuantía de las indemnizaciones económicas por asistencias a las reuniones de las comisiones de trabajo y plenos, hasta tanto se dicte una norma específica para el ámbito de la Comunidad Autónoma, se regulará por lo establecido en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, disposiciones complementarias, actualizándose según establezca la normativa estatal.

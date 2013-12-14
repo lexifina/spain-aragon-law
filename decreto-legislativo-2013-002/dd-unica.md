@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación expresa y por incompatibilidad.
+1. Queda derogada la Ley 2/1992, de 13 de marzo, de creación del Consejo de Protección de la Naturaleza, modificada por a Ley 5/1994, de 30 de junio, de modificación de la Ley 2/1992, de 13 de marzo, de creación del Consejo de Protección de la Naturaleza y por la Ley 8/2008, de 23 de diciembre, de modificación de la Ley 2/1992, de 13 de marzo, de creación del Consejo de Protección de la Naturaleza.
+2. Asimismo, quedan derogadas cualesquiera otras disposiciones de igual o inferior rango en cuanto se opongan o contradigan a lo establecido en el presente Decreto-Legislativo y al texto refundido que por él se aprueba.
