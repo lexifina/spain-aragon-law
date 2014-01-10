@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 23/2003, de 23 de diciembre, de creación del Instituto Aragonés de Gestión Ambiental, y, en particular, el Decreto 346/2011, de 14 de octubre, del Gobierno de Aragón, por el que se modifica la composición del Consejo de Dirección del Instituto Aragonés de Gestión Ambiental, así como cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en esta Ley.
