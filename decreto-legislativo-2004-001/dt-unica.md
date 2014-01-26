@@ -1,0 +1,3 @@
+Disposición transitoria única. Liquidaciones provisionales de la Administración en tasas objeto de autoliquidación.
+En aquellas tasas incluidas en el Texto Refundido de las Tasas de la Comunidad Autónoma de Aragón, para las que se haya contemplado su exacción mediante el procedimiento de autoliquidación, los servicios gestores de las tasas podrán dictar liquidaciones provisionales por los importes vigentes en tanto no se hayan aprobado o modificado los correspondientes modelos para efectuar la citada autoliquidación.
+Se añade por el art. 20 de la Ley 2/2014, de 23 de enero. Ref. BOE-A-2014-1510#a2-2
