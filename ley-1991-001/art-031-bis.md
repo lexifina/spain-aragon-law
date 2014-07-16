@@ -1,0 +1,4 @@
+Artículo 31 bis.
+1. El ejercicio del cargo de miembro de los órganos de gobierno de una caja de ahorros será incompatible con el de todo cargo político electo y con cualquier cargo ejecutivo en partido político, asociación empresarial o sindicato.
+2. El ejercicio del cargo de miembro de los órganos de gobierno de una caja de ahorros será igualmente incompatible con el de alto cargo de la Administración de la Comunidad Autónoma de Aragón, la Administración General del Estado, la Administración de las comunidades autónomas y la Administración local, así como de las entidades del sector público, de derecho público o privado, vinculadas o dependientes de aquellas. Tal incompatibilidad se extenderá durante los dos años siguientes a la fecha del cese de los altos cargos.
+Se añade por la disposición final 1.10 de la Ley 4/2014, de 26 de junio. Ref. BOE-A-2014-8281#df
