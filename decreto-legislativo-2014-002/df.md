@@ -1,0 +1,2 @@
+Disposición final. Desarrollo reglamentario.
+Se faculta al Gobierno de Aragón para que dicte cuantas normas sean necesarias para el desarrollo y aplicación del presente texto refundido. Entre ellas se incluirá la relativa al procedimiento a seguir para la disolución y liquidación de aquellas cooperativas que no se hayan adaptado en los plazos previstos en la Ley 9/1998, de 22 de diciembre, de Cooperativas de Aragón, y en los plazos previstos en la Ley 4/2010, de 22 de junio, por la que se modifica la Ley 9/1998, de 22 de diciembre.
