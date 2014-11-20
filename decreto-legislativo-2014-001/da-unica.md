@@ -1,0 +1,2 @@
+Disposición adicional única. Referencias y concordancias.
+Todas las referencias que se contengan en disposiciones legales y reglamentarias a la Ley 3/2009, de 17 de junio, de Urbanismo de Aragón, bien a su redacción original, bien a su redacción modificada por la Ley 4/2013, se entenderán hechas al texto refundido de la Ley de Urbanismo de Aragón y específicamente, a los correspondientes preceptos o disposiciones del mismo.
