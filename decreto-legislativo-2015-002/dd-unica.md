@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Quedan derogados la Ley 4/2009, de 22 de junio, de Ordenación del Territorio de Aragón; el Acuerdo del Gobierno de Aragón, de fecha 8 de febrero de 2011 por el que se modifica el anexo de la Ley 4/2009, de 22 de junio, de Ordenación del Territorio de Aragón; el artículo 4 de la Ley 8/2011, de 10 de marzo, de medidas para compatibilizar los proyectos de nieve con el desarrollo sostenible de los territorios de montaña; y la Ley 8/2014, de 23 de octubre, de modificación de la Ley 4/2009, de 22 de junio, de Ordenación del Territorio de Aragón.
+2. Quedan así mismo derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente Ley.

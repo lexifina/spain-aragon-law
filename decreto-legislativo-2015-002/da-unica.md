@@ -1,0 +1,3 @@
+Disposición adicional única. Referencias y concordancias.
+1. Todas las referencias que se contengan en disposiciones legales y reglamentarias a la Ley 4/2009, de 22 de junio, de Ordenación del Territorio de Aragón, y a la Ley 8/2014, de 23 de octubre, de modificación de la anterior, se entenderán hechas al texto refundido de la Ley de Ordenación del Territorio de Aragón.
+2. Si las referencias se expresaran con indicación de la numeración de un determinado artículo de las normas mencionadas en el apartado anterior, se entenderán sustituidas por la numeración que corresponda a dicho artículo en el texto refundido.
