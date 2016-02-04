@@ -1,0 +1,3 @@
+Artículo 7 bis. Ejercicio de potestades administrativas.
+El ejercicio de cualesquiera potestades administrativas previstas en el ordenamiento jurídico referidas a la empresa «Plataforma Logística de Zaragoza, PLA-ZA, S.A.» corresponderá al Departamento que, de conformidad con lo dispuesto en el artículo 137 y en la disposición adicional novena, apartado 3, del texto refundido de la Ley del Patrimonio de Aragón, aprobado por Decreto Legislativo 4/2013, de 17 de diciembre, del Gobierno de Aragón, ostente la condición de Departamento de tutela de la referida sociedad.
+Se añade por el art. 25.2 de la Ley 2/2016, de 28 de enero. Ref. BOE-A-2016-2408
