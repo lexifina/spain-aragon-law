@@ -1,0 +1,3 @@
+Artículo 19 bis. Principios generales de la contratación a realizar por la Corporación Aragonesa de Radio y Televisión y sus sociedades.
+En el caso de que la Corporación Aragonesa de Radio y Televisión o sus sociedades tengan que contratar con otras entidades para completar su programación o cualquier otro objeto en cumplimiento de sus fines, se favorecerá la pluralidad en la concurrencia y se ponderará positivamente la inclusión de cláusulas sociales relativas a las mejores condiciones laborales de los empleados y a la reducción de la brecha salarial de género y entre directivos y trabajadores.
+Se modifica por el art. único.13 de la Ley 4/2016, de 19 de mayo. Ref. BOE-A-2016-5902
