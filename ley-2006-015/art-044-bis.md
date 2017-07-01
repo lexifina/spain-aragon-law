@@ -1,3 +1,0 @@
-Artículo 44 bis. Deslinde abreviado.
-Se podrá recurrir a la modalidad de deslinde abreviado cuando en la zona donde se encuentra el monte exista una concentración parcelaria aprobada, firme y haya sido otorgada el acta de reorganización de la propiedad. A diferencia del deslinde en primera o segunda fase, en el deslinde abreviado la práctica del apeo podrá ser sustituida por acta en la que los interesados muestren su conformidad con lo pretendido por la Administración forestal. El plazo máximo para resolver el procedimiento de deslinde abreviado será de seis meses contados desde la fecha de iniciación.
-Se añade por el art. único.15 de la Ley 3/2014, de 29 de mayo. Ref. BOE-A-2007-3527.

@@ -1,3 +1,0 @@
-Disposición adicional decimoquinta. Gestión de montes pro indiviso.
-El departamento competente en materia de medio ambiente desarrollará reglamentariamente el procedimiento de convocatoria y constitución de las juntas gestoras de montes en pro indiviso que se constituyan en el ámbito territorial de la Comunidad Autónoma de Aragón, así como su régimen jurídico. Dicho departamento creará un Registro administrativo de montes privados pro indiviso, en el que se inscribirán sus juntas gestoras, así como sus integrantes y cuota de participación, a efectos de publicidad, con independencia de su fecha de constitución.
-Se añade por el art. único.47 de la Ley 3/2014, de 29 de mayo. Ref. BOE-A-2014-6731.
