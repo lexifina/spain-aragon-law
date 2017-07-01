@@ -1,0 +1,3 @@
+Disposición adicional decimoquinta. Régimen sancionador en materia de aprovechamiento micológico.
+1. El aprovechamiento micológico de los montes en la Comunidad Autónoma de Aragón se sujetará a lo previsto en esta ley, en concreto a lo recogido en el Título VIII y en las disposiciones reglamentarias que la desarrollen, las cuales contemplarán, entre otros aspectos, las especies comercializables y las especies catalogadas, pudiendo regular asimismo la figura del recolector. Los municipios podrán, en su caso, regular la actividad micológica mediante las oportunas ordenanzas municipales.
+2. En el caso de infracciones relacionadas con la comercialización de setas, será de aplicación el régimen sancionador previsto en la normativa específica sobre esta materia.
