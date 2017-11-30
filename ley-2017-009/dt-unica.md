@@ -1,0 +1,2 @@
+Disposición transitoria única. Contratos en vigor de los Servicios de asesoramiento y orientación jurídicos.
+Aquellos Servicios que tengan contrato en vigor con algún departamento del Gobierno de Aragón seguirán ejecutándose durante el plazo acordado hasta que finalice su vigencia, sin la posibilidad de aplicar prórroga alguna. Aquellos que estuvieran en periodo de prórroga finalizarán esta sin que se les pueda acordar otra prórroga suplementaria.
