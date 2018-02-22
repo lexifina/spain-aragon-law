@@ -1,0 +1,2 @@
+Disposición transitoria única. Adaptación de la participación institucional vigente.
+La participación de las organizaciones empresariales y sindicales más representativas de Aragón en los distintos órganos de participación institucional de la Administración de la Comunidad Autónoma deberá adaptarse a lo dispuesto en esta ley en un plazo máximo de seis meses desde su entrada en vigor. Mientras tanto, seguirán vigentes sus respectivas normas de organización y funcionamiento en lo que no se opongan a la presente ley.
