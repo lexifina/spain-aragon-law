@@ -1,0 +1,4 @@
+Artículo 7 ter. Silencio administrativo y caducidad.
+1. La solicitud de declaración de inversión de interés autonómico se entenderá desestimada si la Resolución no fuere dictada y notificada en el plazo máximo de tres meses computados desde la fecha de la presentación de dicha solicitud por cualquiera de los medios previstos en el previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Pública.
+2. El Gobierno, a propuesta motivada del titular del departamento competente, previa audiencia al promotor del proyecto, declarará la caducidad de la condición de un proyecto como inversión de interés autonómico y, en su caso, del interés general de Aragón, por inactividad manifiesta del interesado en cuanto a la realización de las tramitaciones precisas para su ejecución.
+Se añade por el art. 1.2 del Decreto-ley 4/2019, de 30 de enero. Ref. BOA-d-2019-90274
