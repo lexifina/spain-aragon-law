@@ -1,0 +1,3 @@
+Artículo 16 bis. Ejercicio de la acción popular en determinados procedimientos penales específicos en materia de consumo.
+Las administraciones públicas de Aragón, dentro de sus competencias en materia de consumo, podrán ejercer la acción popular, en la forma y condiciones establecidas por la legislación procesal, en procedimientos penales por hechos ocurridos en el ámbito de la comunidad autónoma y que afecten de manera grave a una amplia pluralidad de personas incluidas en los colectivos especialmente protegibles de esta ley.
+Se añade por el art. único de la Ley 4/2019, de 7 de marzo. Ref. BOE-A-2019-7784
