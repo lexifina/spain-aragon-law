@@ -344,7 +344,7 @@ Rueda de Jalón.
 Salillas de Jalón.
 Santa Cruz de Grío.
 Urrea de Jalón.
-17. Delimitación Comarcal de Zaragoza.
+17. Comarca Central.
 Alfajarín.
 Botorrita.
 Burgo de Ebro, El.
@@ -764,3 +764,4 @@ Torre del Compte/Torre del Comte, La.
 Valdeltormo/La Vall del Tormo.
 Valderrobres/Vall de Roures.
 Valjunquera/Valljunquera.
+Se modifica el punto 17 por la disposición final 1 de la Ley 8/2019, de 29 de marzo. Ref. BOE-A-2019-7788#df
