@@ -1,3 +1,0 @@
-Disposición derogatoria única.
-1. Hasta tanto no se dicten las normas técnicas previstas en el articulado de la presente Ley, mantendrá su vigencia el Decreto 89/1991, de 16 de abril, de la Diputación General de Aragón, para la supresión de las barreras arquitectónicas, así como cualquier otra norma reglamentaria u ordenanza municipal que regule estas materias, en tanto no supongan contradicción con los preceptos contenidos en la misma.
-2. Queda derogado el Decreto 126/1989, de 17 de octubre, de la Diputación General de Aragón, y cuantas disposiciones de igual o inferior rango se opongan a la presente Ley.
