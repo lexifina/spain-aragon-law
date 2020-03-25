@@ -1,0 +1,1 @@
+Zaragoza, a 25 de marzo de 2020.—El Presidente del Gobierno de Aragón, Javier Lambán Montañés.—El Consejero de Hacienda y Administración Pública, Carlos Pérez Anadón. —La Consejera de Sanidad, Pilar Ventura Contreras.
