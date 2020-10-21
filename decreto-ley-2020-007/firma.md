@@ -23,9 +23,10 @@ Nivel 1 de alerta sanitaria
 Municipio | Fecha de efecto
 Nivel 2 de alerta sanitaria
 Municipio | Fecha de efecto
-Todos los municipios de Aragón | 19 de octubre de 2020
 Nivel 3 de alerta sanitaria
 Municipio | Fecha de efecto
+Todos los municipios de Aragón | 26 de octubre de 2020
+Se sustituye por la disposición final 1.2 del Decreto-ley 8/2020, de 21 de octubre. Ref. BOA-d-2020-90415#df
 ANEXO III
 Medidas higiénico-sanitarias en establecimientos y actividades específicos
 1. Además de las medidas dispuestas en el anexo I los establecimientos y actividades a los que se refieren los apartados siguientes de este anexo deberán respetar las medidas de higiene y prevención que se establecen en cada caso.
@@ -169,8 +170,12 @@ c) El horario máximo de apertura de estos establecimientos y locales será el m
 ANEXO IV
 Ámbitos territoriales a los que se refiere el artículo 34
 Municipios de más de 100.000 habitantes
-Municipio | Fecha de efecto del confinamiento perimetral
+Municipio | Fecha de efecto
+Zaragoza | 22 de octubre de 2020
 Municipios de entre 10.000 y 100.000 habitantes
-Municipio | Fecha de efecto del confinamiento perimetral
+Municipio | Fecha de efecto
+Huesca | 22 de octubre de 2020
+Teruel | 22 de octubre de 2020
 Municipios de menos de 10.000 habitantes
-Municipio | Fecha de efecto del confinamiento perimetral
+Municipio | Fecha de efecto
+Se sustituye por la disposición final 1.3 del Decreto-ley 8/2020, de 21 de octubre. Ref. BOA-d-2020-90415#df
