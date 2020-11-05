@@ -19,13 +19,16 @@ h) Aquellos materiales que sean suministrados a los usuarios durante el desarrol
 3. Lo previsto en este anexo se aplicará en todo caso, sin perjuicio de las especificidades en materia de higiene y prevención establecidas a continuación para establecimientos o actividades concretos.
 ANEXO II
 Ámbitos territoriales a los que se refiere el artículo 18
-Nivel 1 de alerta sanitaria
+NIVEL 1 DE ALERTA SANITARIA
 Municipio | Fecha de efecto
-Nivel 2 de alerta sanitaria
+NIVEL 2 DE ALERTA SANITARIA
 Municipio | Fecha de efecto
-Nivel 3 de alerta sanitaria
+NIVEL 3 DE ALERTA SANITARIA. MODALIDAD ORDINARIA
 Municipio | Fecha de efecto
-Todos los municipios de Aragón | 26 de octubre de 2020
+NIVEL 3 DE ALERTA SANITARIA. MODALIDAD AGRAVADA
+Municipio | Fecha de efecto
+Todos los municipios de Aragón. | 6 de noviembre de 2020
+Se sustituye por la disposición final 1.4 del Decreto-ley 9/2020, de 4 de noviembre. Ref. BOA-d-2020-90438#df
 Se sustituye por la disposición final 1.2 del Decreto-ley 8/2020, de 21 de octubre. Ref. BOA-d-2020-90415#df
 ANEXO III
 Medidas higiénico-sanitarias en establecimientos y actividades específicos
