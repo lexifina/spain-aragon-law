@@ -1,0 +1,1 @@
+Téngase en cuenta que se aprueba el cambio de denominación del Colegio Profesional de Ingenieros en Informática de Aragón por la de Colegio Profesional de Ingeniería Informática de Aragón, por Decreto 124/2020, de 23 de diciembre (BOA núm. 3, de 7 de enero de 2021).
