@@ -1,0 +1,3 @@
+Artículo 39 bis. Tramitación anticipada de subvenciones financiada con fondos finalistas.
+Los expedientes de subvención financiados con fondos finalistas, aun cuando dichos fondos no hayan sido efectivamente transferidos e incorporados, podrán iniciarse e impulsarse hasta alcanzar el trámite inmediato anterior a la valoración de solicitudes. De esta circunstancia se dejará constancia expresa en la convocatoria. Si los fondos finalistas no son transferidos e incorporados al presupuesto, la administración podrá desistir del procedimiento mediante anuncio publicado por los mismos medios que la convocatoria.
+Se añade por la disposición final 2.15 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-4247#df-2

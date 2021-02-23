@@ -1,0 +1,3 @@
+Artículo 12 bis. Incorporación o modificación de líneas de subvenciones.
+Los órganos competentes para la concesión de subvenciones podrán modificar el plan estratégico, las bases reguladoras o las convocatorias, aunque cualesquiera de esos documentos ya se encuentre publicado para incorporar nuevas líneas de ayuda o modificar las ya existentes. En estos casos, la tramitación del expediente será única, con el mismo plazo y condiciones que se establece en el artículo 11 para la emisión de informes preceptivos, sin que, en su caso, sea precisa la autorización previa del Gobierno de Aragón para la modificación del plan estratégico establecida en el artículo 5 de esta ley.
+Se añade por la disposición final 2.3 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-4247#df-2

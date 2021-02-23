@@ -1,2 +1,0 @@
-Disposición transitoria única. Procedimientos iniciados de conformidad con los Decretos-leyes 1/2020, de 25 de marzo, y 2/2020, de 28 de abril.
-Los procedimientos cuya tramitación se haya iniciado conforme a lo dispuesto en los Decretos-leyes 1/2020, de 25 de marzo, por el que se adoptan medidas urgentes para responder al impacto generado por el COVID-19 en la Comunidad Autónoma de Aragón, y 2/2020, de 28 de abril, por el que se adoptan medidas adicionales, continuarán su tramitación conforme a lo dispuesto en los mismos.
