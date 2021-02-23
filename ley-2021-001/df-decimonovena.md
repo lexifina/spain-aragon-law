@@ -1,0 +1,2 @@
+Disposición final decimonovena. Registro de Beneficiarios de Subvenciones.
+El Gobierno de Aragón aprobará el reglamento del Registro de Beneficiarios de Subvenciones regulado en el artículo 13 bis de la Ley 5/2015, de 25 de marzo, de Subvenciones de Aragón, en el plazo de seis meses desde la entrada en vigor de esta ley. El Registro entrará en funcionamiento en el plazo máximo de un año desde la entrada en vigor de esta ley.

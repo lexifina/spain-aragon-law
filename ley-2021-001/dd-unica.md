@@ -1,0 +1,16 @@
+Disposición derogatoria única.
+1. Quedan derogadas todas aquellas normas de igual o inferior rango que se opongan a lo dispuesto en esta ley.
+2. Quedan expresamente derogadas las siguientes disposiciones con rango de ley:
+a) El Decreto-ley 1/2020, de 25 de marzo, por el que se adoptan medidas urgentes para responder al impacto generado por el COVID-19 en la Comunidad Autónoma de Aragón.
+b) El Decreto-ley 2/2020, de 28 de abril, por el que se adoptan medidas adicionales para responder al impacto generado por el COVID-19 en la Comunidad Autónoma de Aragón.
+c) El Decreto-ley 4/2020, de 24 de junio, del Gobierno de Aragón, por el que se adoptan medidas urgentes y extraordinarias para el impulso de la Estrategia Aragonesa para la Recuperación Social y Económica.
+d) Los apartados segundo y tercero del artículo 11 del Decreto-ley 9/2019, de 8 de octubre, del Gobierno de Aragón, por el que se adoptan medidas extraordinarias y urgentes para el control de la población silvestre de conejo común (oryctolaguscuniculus) en Aragón.
+3. Quedan expresamente derogadas las siguientes normas reglamentarias:
+a) La Orden PRE/571/2016, de 13 de junio, por la que se aprueban las bases reguladoras para la concesión de subvenciones con cargo al Fondo Local de Aragón. Esta derogación tendrá efectos transcurridos seis meses desde la entrada en vigor de esta ley.
+b) Orden de 25 junio 2004, del Departamento de Industria, Comercio y Turismo, sobre el procedimiento administrativo aplicable a las instalaciones de energía solar fotovoltaica conectadas a la red eléctrica.
+c) Orden de 7 de noviembre de 2005, del Departamento de Industria, Comercio y Turismo, por la que se establecen normas complementarias para la tramitación y la conexión de determinadas instalaciones generadoras de energía eléctrica en régimen especial y agrupaciones de estas en redes de distribución.
+d) Orden de 7 de noviembre de 2006, del Departamento de Industria, Comercio y Turismo, por la que se establecen normas complementarias para la tramitación del otorgamiento y la autorización administrativa de las instalaciones de energía solar fotovoltaica conectadas a la red eléctrica.
+e) Orden de 5 febrero de 2008, del Departamento de Industria, Comercio y Turismo, por la que se establecen normas complementarias para la tramitación de expedientes de instalaciones de energía solar fotovoltaica conectadas a la red eléctrica.
+f) Orden de 1 abril de 2009, del Departamento de Industria, Comercio y Turismo, por la que se modifican diversas órdenes de este Departamento relativas a instalaciones de energía solar fotovoltaica.
+g) El Decreto 228/2006, de 21 de noviembre, de Gobierno de Aragón, por el que se crea el registro telemático de la Administración de la Comunidad Autónoma de Aragón, se regula la tramitación de procedimientos administrativos por medios electrónicos y se establecen otras medidas en materia de administración electrónica.
+h) El Decreto 73/2006, de 21 de marzo, del Gobierno de Aragón, por el que se regula la habilitación para el ejercicio de las funciones de comprobación de las condiciones de seguridad y salud en las empresas y centros de trabajo por parte del personal funcionario público que ejerce labores técnicas en materia de prevención de riesgos laborales.
