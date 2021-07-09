@@ -22,11 +22,12 @@ Nivel 1 de alerta sanitaria
 Municipio | Fecha de efecto
 Nivel 2 de alerta sanitaria
 Municipio | Fecha de efecto
+Todos los municipios de Aragón | Nivel de alerta en vigor desde el 9 de julio de 2021.
 Nivel 3 de alerta sanitaria | Modalidad ordinaria
 Municipio | Fecha de efecto
 Nivel 3 de alerta sanitaria | Modalidad agravada
 Municipio | Fecha de efecto
-Todos los municipios de Aragón | Nivel de alerta en vigor desde el 6 de noviembre de 2020.
+Se modifica por el art. único.2 del Decreto-ley 4/2021, de 8 de julio. Ref. BOA-d-2021-90265
 ANEXO III
 Medidas higiénico-sanitarias en establecimientos y actividades específicos
 1. Además de las medidas dispuestas en el anexo I, los establecimientos y actividades a los que se refieren los apartados siguientes de este anexo deberán respetar las medidas de higiene y prevención que se establecen en cada caso.
