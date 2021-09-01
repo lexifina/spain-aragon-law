@@ -147,7 +147,7 @@ c) Lo recogido en este apartado será también de aplicación para reuniones pro
 2. Aquellos establecimientos que dispongan de licencia oportuna podrán funcionar como bar o cafetería y el espacio destinado a pista de baile podrá ser utilizado para instalar mesas o agrupaciones de mesas, no pudiendo dedicarse a su uso habitual.
 3. La medida prevista en este apartado se aplicará a todos los locales de ocio nocturno, independientemente de la población del municipio en que se ubiquen.
 23. Fiestas, verbenas, otros eventos populares y atracciones de feria.
-La celebración de fiestas, verbenas y otros eventos populares queda suspendida hasta las 24:00 horas del día 31 de agosto de 2021. A partir de dicha fecha, salvo que se acuerde expresamente la posibilidad de celebrarlas con carácter general, podrán autorizarse por la autoridad sanitaria, en su caso, siempre que la evolución de la situación epidemiológica así lo permita.
+La celebración de fiestas, verbenas y otros eventos populares queda suspendida hasta las 24:00 horas del día 30 de septiembre de 2021. A partir de dicha fecha, salvo que se acuerde expresamente la posibilidad de celebrarlas con carácter general, podrán autorizarse por la autoridad sanitaria, en su caso, siempre que la evolución de la situación epidemiológica así lo permita.
 La actividad desarrollada en peñas o locales de reunión asimilados quedará sujeta a igual limitación que la establecida en el párrafo anterior para fiestas, verbenas y otros eventos populares.
 24. Plazas, recintos e instalaciones taurinas.
 a) Todas las plazas, recintos e instalaciones taurinas al aire libre podrán desarrollar su actividad taurina siempre que cuenten con butacas preasignadas y no se supere la mitad del aforo máximo aplicable conforme a su normativa reguladora.
@@ -163,6 +163,7 @@ c) El horario máximo de apertura de estos establecimientos y locales será el m
 27. Consumo de bebidas no autorizado en la vía pública y de tabaco y asimilados.
 1. Se prohíbe el consumo colectivo o en grupo de bebidas en la calle o en espacios públicos ajenos a los establecimientos de hostelería o similares, por resultar contrario al principio general de precaución y constituir dicha actividad un riesgo evidente e innecesario de propagación del virus causante de la pandemia.
 2. No se podrá fumar en la vía pública o en espacios al aire libre cuando no se pueda respetar una distancia mínima interpersonal de, al menos, 2 metros. Esta limitación será aplicable también para el uso de cualquier otro dispositivo de inhalación de tabaco, como pipas de agua, cachimbas o asimilados, tanto en el interior como en el exterior de los establecimientos.
+Se modifica el apartado 23 por el art. único del Decreto-ley 5/2021, de 1 de septiembre. Ref. BOA-d-2021-90330
 Se modifica el apartado 23 por el art. único.2 del Decreto-ley 2/2021, de 7 de mayo. Ref. BOA-d-2021-90171
 Se modifica el apartado 23 por la disposición final 1 del Decreto-ley 1/2021, de 4 de enero. Ref. BOA-d-2021-90002#df
 ANEXO IV
