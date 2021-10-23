@@ -1,0 +1,4 @@
+Disposición transitoria única. Operatividad del pago mediante tarjeta de crédito o débito.
+El pago de las tasas mediante tarjeta de crédito o débito a que se refiere el apartado 1 del artículo 19 de la presente ley podrá realizarse cuando la Administración de la Comunidad Autónoma de Aragón proceda a la completa implantación del módulo correspondiente en la plataforma de pagos del Gobierno de Aragón y su integración con las tecnologías de las entidades bancarias proveedoras del servicio.
+Una orden conjunta de los departamentos competentes en materia de hacienda y en materia de administración electrónica determinará la fecha a partir de la cual podrá realizarse el pago de las tasas mediante tarjeta de crédito o débito.
+Se añade por el art 2.3 de la Ley 7/2021, de 7 de octubre. Ref. BOE-A-2021-19727

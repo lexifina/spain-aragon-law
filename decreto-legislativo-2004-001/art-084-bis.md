@@ -1,0 +1,3 @@
+Artículo 84 bis. Exenciones.
+Están exentas del pago de la tarifa 8, punto 2, de la tasa 20 las actuaciones dirigidas a la evaluación para la autorización, en su caso, de estudios posautorización de tipo observacional con medicamentos cuando la investigación entre dentro del concepto «Investigación clínica sin interés comercial», definido en el artículo 2.2.e) del Real Decreto 1090/2015, de 4 de diciembre, por el que se regulan los ensayos clínicos con medicamentos, los Comités de Ética de la Investigación con medicamentos y el Registro Español de Estudios Clínicos.
+Se añade por el art. 1.14.1 de la Ley 7/2021, de 7 de octubre. Ref. BOE-A-2021-19727

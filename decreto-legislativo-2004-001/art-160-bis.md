@@ -1,5 +1,6 @@
 Artículo 160 bis. Exenciones.
-Están exentas del pago de la tasa las actuaciones dirigidas a la evaluación de ensayos clínicos y estudios postautorización prospectivos con medicamentos y productos sanitarios, en los siguientes supuestos:
-a) Cuando su promotor sea una Administración Pública.
-b) Cuando sean financiados con cargo a fondos públicos.
+Están exentas del pago de la tasa las actuaciones dirigidas a la evaluación de ensayos clínicos y estudios posautorización prospectivos con medicamentos y productos sanitarios en los siguientes supuestos:
+a) Cuando su promotor sea un órgano integrado en la estructura de los departamentos de la Administración de la Comunidad Autónoma de Aragón y sus organismos dependientes, o cuando se trate de otras Administraciones públicas, la Administración de la Comunidad Autónoma de Aragón y sus organismos disfruten de la misma exención cuando actúen como promotores de análogas actuaciones en el ámbito de dicha Administración pública. Las entidades que tengan esta naturaleza no podrán beneficiarse de la exención prevista en el apartado siguiente.
+b) Cuando la investigación entre dentro del concepto «Investigación clínica sin interés comercial», definido en el artículo 2.2.e) del Real Decreto 1090/2015, de 4 de diciembre, por el que se regulan los ensayos clínicos con medicamentos, los Comités de Ética de la Investigación con medicamentos y el Registro Español de Estudios Clínicos.
+Se modifica por el art. 1.23.2 de la Ley 7/2021, de 7 de octubre. Ref. BOE-A-2021-19727
 Se añade por el art. 23 de la Ley 12/2010, de 29 de diciembre. Ref. BOE-A-2011-3639
