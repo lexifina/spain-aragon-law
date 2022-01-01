@@ -1,0 +1,5 @@
+Disposición derogatoria única. Derogación expresa y por incompatibilidad.
+1. Se derogan el capítulo I del título XI, las disposiciones adicionales séptima, octava, novena, undécima y duodécima, y las disposiciones transitorias quinta y sexta de la Ley 10/2014, de 27 de noviembre, de Aguas y Ríos de Aragón.
+2. Se deroga el Reglamento regulador del Impuesto sobre la Contaminación de las Aguas aprobado por Decreto 266/2001, de 6 de noviembre, del Gobierno de Aragón, con excepción del Anexo I, el Anexo II y el Anexo III, que mantendrán su vigencia en tanto que la materia objeto de cada uno de ellos no sea regulada por orden del consejero competente en materia de aguas del Gobierno de Aragón en uso de la habilitación establecida en la disposición final primera de la presente ley.
+3. Se derogan cuantas disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en esta ley.
+4. En tanto sean compatibles con la presente ley, mantendrán su vigencia las disposiciones generales aprobadas en desarrollo de la legislación reguladora del Impuesto sobre la Contaminación de las Aguas.
