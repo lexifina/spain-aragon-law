@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio de los procedimientos.
+Los procedimientos de elaboración de normas que estuvieran iniciados a la entrada en vigor de este Decreto Legislativo y el texto refundido que se aprueba, se regirán por la legislación anterior. A estos efectos se entenderá que los procedimientos han sido iniciados si se hubiere aprobado la correspondiente orden de inicio de los mismos.
