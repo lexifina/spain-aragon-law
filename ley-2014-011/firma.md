@@ -446,7 +446,10 @@ c) 750 plazas para cerdas reproductoras.
 14.1 Captura de flujos de CO2 (dióxido de carbono) procedentes de instalaciones incluidas en el presente anejo con fines de almacenamiento geológico con arreglo a la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono.
 ANEXO V
 Actividades excluidas de licencia ambiental de actividades clasificadas
-a) Actividades comerciales minoristas cuya superficie útil de exposición y venta al público no sea superior a 750 metros cuadrados:
+a) Actividades comerciales minoristas cuya superficie útil de exposición y venta al público no sea superior a 2500 metros cuadrados.
+Téngase en cuenta que esta última actualización de la letra a) establecida por el art. 25.2 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-9438#a2-7, entra en vigor el 27 de agosto de 2022, según determina su disposición final 4.
+Redacción anterior:
+"a) Actividades comerciales minoristas cuya superficie útil de exposición y venta al público no sea superior a 750 metros cuadrados:
 1. Alimentación.
 2. Bebidas y tabaco.
 3. Maquinaria y equipo mecánico.
@@ -470,7 +473,7 @@ a) Actividades comerciales minoristas cuya superficie útil de exposición y ven
 21. Floristerías.
 22. Armerías sin almacenamiento de munición ni productos explosivos o inflamables.
 23. Farmacias sin laboratorio y sin elaboración de fórmulas magistrales.
-* Las actividades enumeradas en el presente apartado que, a su vez, estén incluidas en los supuestos contemplados en el artículo 2 de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y determinados servicios, modificada por la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, se regirán por lo dispuesto en la citada ley.
+* Las actividades enumeradas en el presente apartado que, a su vez, estén incluidas en los supuestos contemplados en el artículo 2 de la Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y determinados servicios, modificada por la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, se regirán por lo dispuesto en la citada ley."
 b) Actividades industriales:
 1. Talleres auxiliares de construcción de albañilería, escayolistería, cristalería, electricidad, fontanería, calefacción y aire acondicionado, siempre que su potencia instalada no supere los 30 kW y su superficie construida sea inferior a 200 m2.
 2. Talleres de relojería, orfebrería, óptica, ortopedia, y otros afines a los anteriormente indicados, siempre que su potencia instalada no supere los 30 kW y su superficie construida sea inferior a 200 m2.
@@ -498,3 +501,4 @@ d) Otras actividades:
 9. Antenas de telecomunicaciones.
 10. La tenencia en el domicilio de especies animales, autóctonas o exóticas, con la finalidad de vivir con las personas con fines de compañía, ayuda o educativos.
 * Nota: a los efectos de este anexo, se entenderá por potencia la suma de las diferentes potencias de las máquinas y/o instalaciones de combustión, independientemente de la fuente de energía que consuman o forma de energía que produzcan (calor, movimiento lineal, rotatorio u otra forma de energía).
+Se modifica la letra a), con efectos de 27 de agosto de 2022, por el art. 25.2 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-9438#a2-7
