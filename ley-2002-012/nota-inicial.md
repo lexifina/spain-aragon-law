@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 12/2002, de 28 de mayo, de creación de la Comarca de Ribagorza" y todas las referencias a «La Ribagorza» incluidas en la misma quedan sustituidas por el término «Ribagorza», según establece el art. único.1 y la disposición adicional de la Ley 4/2023, de 9 de febrero. Ref. BOE-A-2023-6660
