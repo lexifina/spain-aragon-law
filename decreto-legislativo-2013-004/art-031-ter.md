@@ -1,7 +1,0 @@
-Artículo 31 ter. Saldos y depósitos abandonados.
-1. Conforme a lo dispuesto en la letra b) del artículo 598 bis del Código del Derecho Foral de Aragón, pertenecen por ministerio de la ley a la Comunidad Autónoma los valores, dinero y demás bienes muebles depositados en la Caja General de Depósitos y en entidades de crédito, sociedades o agencias de valores o cualesquiera otras entidades financieras, así como los saldos de cuentas corrientes, libretas de ahorro u otros instrumentos similares abiertos en estos establecimientos, respecto de los cuales no se haya practicado gestión alguna por las personas interesadas que implique el ejercicio de su derecho de propiedad en el plazo de veinte años.
-2. Las entidades depositarias están obligadas a comunicar al Departamento competente en materia de patrimonio la existencia de estos bienes en la forma que se determine por la persona titular del Departamento.
-3. En los informes de auditoría que se emitan en relación con las cuentas de estas entidades, se hará constar, en su caso, la existencia de estos bienes.
-4. La incorporación de estos bienes al patrimonio de Aragón se realizará conforme al procedimiento establecido en el artículo 77 de este texto refundido.
-5. La gestión, administración y explotación de estos bienes corresponderá al Departamento competente en materia de patrimonio, el cual podrá enajenarlos de conformidad con lo dispuesto en este texto refundido, según la naturaleza de los bienes de que se trate.
-Se añade por el art. 2 de la Ley 6/2021, de 29 de junio. Ref. BOE-A-2021-12702
