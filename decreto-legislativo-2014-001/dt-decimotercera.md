@@ -1,2 +1,3 @@
 Disposición transitoria decimotercera. Plazo de prescripción de las órdenes de demolición y otras medidas de restablecimiento de la legalidad.
-Los plazos de prescripción regulados en esta Ley para las órdenes de demolición y medidas de restablecimiento de la legalidad urbanística se aplicarán a aquellas que hayan sido dictadas por el órgano competente con posterioridad a la entrada en vigor de la Ley 4/2013. En el resto de los supuestos, se aplicará la normativa y los criterios jurisprudenciales vigentes en el momento en el que fueron dictadas.
+(Suprimida).
+Se suprime por el art. único.10 de la Ley 2/2023, de 9 de febrero. Ref. BOE-A-2023-6659
