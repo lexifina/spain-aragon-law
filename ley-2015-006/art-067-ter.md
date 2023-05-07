@@ -1,0 +1,7 @@
+Artículo 67 ter. Oficina de emancipación joven.
+1. La oficina de emancipación joven deberá ajustar sus actuaciones a la realidad socioeconómica de la población juvenil de todo el territorio y centrará sus actuaciones en los ámbitos prioritarios indicados en el apartado 5 de este artículo, sin menoscabo de que pueda incorporar otras actuaciones vinculadas con la emancipación.
+2. La oficina de emancipación joven se coordinará y formará parte del Observatorio Aragonés de la Juventud de cara al análisis de la situación y evaluación de la realidad, así como del impacto de las políticas desarrolladas.
+3. Asimismo, la oficina de emancipación joven se coordinará con los departamentos del Gobierno de Aragón competentes en sus ámbitos de actuación, de cara a complementar e incidir en las actuaciones que posibiliten mejorar los servicios específicos dirigidos a la juventud en todo el territorio.
+4. La oficina de emancipación joven deberá coordinarse también y se complementará con las iniciativas de ámbito local que permitan generar sinergias y ajustar las actuaciones a la realidad juvenil.
+5. Las áreas prioritarias de actuación de la oficina de emancipación joven serán el empleo, la vivienda, la cualificación profesional, así como la creación, coordinación y evaluación del Plan de Retorno Joven de Aragón.
+Se añade por el art. único.9 de la Ley 12/2023, de 30 de marzo. Ref. BOE-A-2023-10877
