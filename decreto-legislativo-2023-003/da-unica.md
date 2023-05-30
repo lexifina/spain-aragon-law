@@ -1,0 +1,3 @@
+Disposición adicional única. Remisiones.
+Todas las referencias que se contengan en disposiciones legales y reglamentarias a la Ley 4/1986, de 4 de junio, de la Hacienda de la Comunidad Autónoma de Aragón o al texto refundido aprobado por Decreto legislativo 1/2000, de 29 de junio, se entenderán hechas al texto refundido de la Ley de Hacienda de la Comunidad Autónoma de Aragón.
+Si las referencias se expresaran con indicación de la numeración de un determinado artículo en la Ley de Hacienda de la Comunidad Autónoma de Aragón o en el texto refundido aprobado por Decreto legislativo 1/2000, de 29 de junio, se entenderán sustituidas por la numeración que corresponda a dicho artículo en el texto refundido de la Ley de Hacienda de la Comunidad Autónoma de Aragón.
