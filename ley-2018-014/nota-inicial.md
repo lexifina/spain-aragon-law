@@ -1,1 +1,2 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de la Ley 1/2024, de 15 de febrero Ref. BOE-A-2024-4617, que derogaba la presente norma, desde el 29 de mayo de 2024 para las partes legitimadas, y desde el 19 de junio de 2024 para los terceros, por providencia del TC de 17 de junio de 2024, que admite a trámite el recurso de inconstitucionalidad nº 3951/2024 Ref. BOE-A-2024-12375
 Norma derogada, con efectos desde el 1 de marzo de 2024, por el art. único de la Ley 1/2024, de 15 de febrero. Ref. BOE-A-2024-4617
