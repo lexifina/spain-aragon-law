@@ -1,0 +1,11 @@
+{
+  "path": "es-ar",
+  "code": "ES-AR",
+  "name": "Aragon",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-aragon-law",
+  "build": "built: statute of autonomy and laws (260 norms, 822 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
