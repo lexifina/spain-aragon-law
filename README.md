@@ -1,5 +1,7 @@
 # Aragon: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Aragon, Spain, which global-law reads at `spain/aragon/acts/`.
+
 The law of the autonomous community of Aragon (Comunidad Autónoma de Aragón, Spain) as a git history: one file per article, one commit per norm that changed it, dated the day the change took effect, with the amending norm as the commit's author. `git blame` names the norm behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `es-ar/`. Spain's national law is in [lexifina/spain-law](https://github.com/lexifina/spain-law).
