@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T14:04:58Z",
+ "generated": "2026-11-24T07:29:14Z",
  "latest": {
   "boe-autonomico|spain/aragon/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": {
     "examples": [
      "BOE-A-2007-8444: 1 of 157 blocks of the page not found here"
@@ -28,11 +28,11 @@
     "repo": 260,
     "source_in_scope": 265
    },
-   "check_id": "es-boe-autonomico-20261123T134834Z",
+   "check_id": "es-boe-autonomico-20261124T071446Z",
    "commits": null,
    "corpus": "spain/aragon/acts",
    "error": null,
-   "finished": "2026-11-23T13:48:41Z",
+   "finished": "2026-11-24T07:14:53Z",
    "flags": [
     {
      "detail": "1 of 1 read again by a second route disagree",
@@ -40,32 +40,32 @@
     }
    ],
    "gap": 6,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 12,
-   "runner": "lawwatch spain (f13b561b4f)",
+   "requests": 13,
+   "runner": "lawwatch spain (3a3ae06cd1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T13:21:37Z",
+   "snapshot": "2026-11-23T14:01:19Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T13:48:34Z",
+   "started": "2026-11-24T07:14:46Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
     "examples": [],
     "held": 1,
-    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 1 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (0 of 1 swept this check)",
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 1 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (1 of 1 swept this check)",
     "ok": true,
-    "swept": 0,
+    "swept": 1,
     "unread": 0,
     "versions_checked": 1,
     "versions_differ": 0
