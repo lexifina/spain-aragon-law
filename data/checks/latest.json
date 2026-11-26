@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:29:01Z",
+ "generated": "2026-11-26T06:33:32Z",
  "latest": {
   "boe-autonomico|spain/aragon/acts": {
    "attempt": 1,
@@ -28,11 +28,11 @@
     "repo": 260,
     "source_in_scope": 265
    },
-   "check_id": "es-boe-autonomico-20261125T061443Z",
+   "check_id": "es-boe-autonomico-20261126T061901Z",
    "commits": null,
    "corpus": "spain/aragon/acts",
    "error": null,
-   "finished": "2026-11-25T06:14:50Z",
+   "finished": "2026-11-26T06:19:07Z",
    "flags": [
     {
      "detail": "1 of 1 read again by a second route disagree",
@@ -40,7 +40,7 @@
     }
    ],
    "gap": 6,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 05:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261125T052409Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -55,9 +55,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-24T12:36:43Z",
+   "snapshot": "2026-11-25T14:14:13Z",
    "source": "boe-autonomico",
-   "started": "2026-11-25T06:14:43Z",
+   "started": "2026-11-26T06:19:01Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
