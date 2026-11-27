@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/aragon/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 06:19 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 06:18 UTC**.
 - Acts held here: 260; current at the source: 259; changed at the source since the version held here: 1; no longer at the source: 0.
 - Compared with the source in this read: 1 of the 260 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 6 (changed at the source since the version held here: 1, outside this repository's scope: 5); with no reason: 0.

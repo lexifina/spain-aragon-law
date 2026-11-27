@@ -8,7 +8,7 @@ Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/aragon/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-26 06:19 UTC**.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-27 06:18 UTC**.
 - Normas en este repositorio: 260; al día con la fuente: 259; modificadas en la fuente después de la versión de aquí: 1; ya no están en la fuente: 0.
 - Compared with the source in this read: 1 of the 260 acts held here; the others were not compared in this read (see the check's note).
 - Sin publicar: 6 (modificada en la fuente después de la versión de aquí: 1, fuera del alcance de este repositorio: 5); sin motivo: 0.
